@@ -1,6 +1,8 @@
 
 
-Ctrl+Shift+V in visual studio code
+# importent notice 
+this guide needs updated so take the info with a grain of salt 
+
 # Database Practice with SQL Examples
 - [Basic SQL Concepts](#basic-sql-concepts)
   - [What’s a database?](#whats-a-database)
