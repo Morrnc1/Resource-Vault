@@ -1,4 +1,4 @@
-# 🌸 Resource Vault
+# 🌸 The Resource Vault
 
 <div>
   <h2>Technical Guides and Resources</h2>
