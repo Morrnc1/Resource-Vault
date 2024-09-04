@@ -1,8 +1,3 @@
-To make it so it looks better in VS Code Press
-******************************
-****** CTRL + SHIFT + V ******
-******************************
-
 # Step-by-Step Guide: Writing and Running Tests for Your API
 
 ## Getting Started
