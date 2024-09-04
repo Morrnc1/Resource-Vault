@@ -3,6 +3,7 @@
 <div>
   <h2>Technical Guides and Resources</h2>
 </div>
+<font color="red">This text is red!</font>
 
 <!-- Need to make these better :/ -->
 ![Status](https://img.shields.io/badge/status-active-ff69b4?style=flat-square&logo=flutter&logoColor=white)
