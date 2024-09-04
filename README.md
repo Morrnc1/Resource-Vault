@@ -2,6 +2,7 @@
 
 ![Status](https://img.shields.io/badge/status-active-ff69b4?style=flat-square&logo=flutter&logoColor=white)
 ![Testing Guide](https://img.shields.io/badge/guide-testing-ffb6c1?style=flat-square&logo=bookstack&logoColor=white)
+![Visitor Count](https://hits.sh/github.com/Morrnc1/Resource-Vault.svg?style=flat-square&label=Visitor%20Count&labelColor=C7A0FF&color=000000)
 
 ### $${\color{#FFB6C1}Welcome \space to \space the \space Resource \space Vault}$$
 
