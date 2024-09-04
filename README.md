@@ -1,9 +1,5 @@
 # 🌸 Resource Vault
 
-<div>
-  <h2>Technical Guides and Resources</h2>
-</div>
-
 <!-- Need to make these better :/ -->
 ![Status](https://img.shields.io/badge/status-active-ff69b4?style=flat-square&logo=flutter&logoColor=white)
 ![Testing Guide](https://img.shields.io/badge/guide-testing-ffb6c1?style=flat-square&logo=bookstack&logoColor=white)
