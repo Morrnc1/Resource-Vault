@@ -16,7 +16,7 @@ Welcome to the **Resource Vault**
   <summary>🗂️ Vault Index</summary>
   
   <div>
-    <h3>🧪 <a href="./blob/main/guide-vault/Api-Testing-Guide.md">API Testing Guide</a></h3>
+    <h3>🧪 <a href="./guide-vault/Api-Testing-Guide.md">API Testing Guide</a></h3>
     <p>um short info thing here</p>
   </div>
 
