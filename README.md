@@ -8,7 +8,7 @@
 ---
 
 <details>
-  <summary>🗂️ $${\color{#FF69B4}Vault \space Index}$$</summary>
+  <summary>🗂️ $${\color{#b48cfa}Vault \space Index}$$</summary>
   
   <div>
     <h6>🧪 <a href="./guide-vault/Api-Testing-Guide.md">API Testing Guide</a></h6>
@@ -26,7 +26,7 @@
 ---
 
 <details>
-  <summary>🏆 $${\color{#FF69B4}Acknowledgments}$$</summary>
+  <summary>🏆 $${\color{#b48cfa}Acknowledgments}$$</summary>
   
   <div>
     <h6>❤️ <a href="./example/name-of-file">example name</a></h6>
