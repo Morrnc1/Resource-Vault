@@ -541,3 +541,5 @@ it('should create a new Agent', async () => {
     - Making a request (e.g., POST, GET, PUT, DELETE) to your API.
     - Checking the response from the server to make sure it matches what you expected.
     - Checking the database to confirm that the operation was carried out correctly.
+      
+![Visitor Count](https://hits.sh/github.com/Morrnc1/Resource-Vault/edit/main/guide-vault/Api-Testing-Guide.md.svg?style=flat-square&label=Visitor%20Count&labelColor=C7A0FF&color=000000)
