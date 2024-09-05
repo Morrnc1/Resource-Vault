@@ -910,3 +910,5 @@ DELIMITER ;
 This trigger will automatically log changes in the quantity of items in the `inventory` table, recording both the old and new quantities along with the timestamp of the change.
 
 ---
+
+![Visitor Count](https://hits.sh/github.com/Morrnc1/Resource-Vault/edit/main/guide-vault/Database-Study-Guide-I.md.svg?style=flat-square&label=Visitor%20Count&labelColor=C7A0FF&color=000000)
