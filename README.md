@@ -9,7 +9,7 @@
 ---
 
 <details>
-  <summary>🗂️ $${\color{#b48cfa}Vault \space Index}$$</summary>
+  <summary>🗂️ $${\color{#b48cfa}Guide-Vault \space Index}$$</summary>
   
   <div>
     <h6>🧪 <a href="./guide-vault/Api-Testing-Guide.md">API Testing Guide</a></h6>
@@ -21,6 +21,16 @@
 
   <div>
     <h6>📕 <a href="./guide-vault/Database-Study-Guide-I.md">Database Study Guide I</a></h6>
+  </div>
+</details>
+
+---
+
+<details>
+  <summary>💾 $${\color{#b48cfa}Script-Vault \space Index}$$</summary>
+  
+  <div>
+    <h6>🔧 <a href="./script-vault/addHeader.js">Add JSDoc Headers</a></h6>
   </div>
 </details>
 
